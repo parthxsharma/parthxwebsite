@@ -8,7 +8,7 @@ make your own wesite
 
 ### 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/parthxsharma)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=parthxsharma/parthxwebsite)
 
 - ### 𝐎𝐰𝐧𝐞𝐫 𝐎𝐟 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
 [![Ari](https://telegra.ph/file/ad1557c30dddeff2c2351.jpg)](https://t.me/lll_notookk_lll)
